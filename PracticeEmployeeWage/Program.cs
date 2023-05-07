@@ -23,8 +23,12 @@ namespace PracticeEmployeeWage
             partTimeEmployee.WageCalculation();
             */
 
-           SwitchCase sw = new SwitchCase();
+          /* SwitchCase sw = new SwitchCase();
             sw.WageCalculation();
+          */
+
+            MonthlyWage monthlyWage = new MonthlyWage();
+            monthlyWage.Calculation();
             Console.ReadKey();
         }
     }
