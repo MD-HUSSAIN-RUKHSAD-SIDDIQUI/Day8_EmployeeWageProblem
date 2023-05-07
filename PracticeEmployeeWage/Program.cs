@@ -18,8 +18,13 @@ namespace PracticeEmployeeWage
            /* DailyWage dailyWage = new DailyWage();
             dailyWage.Calculate();
            */
-           PartTimeEmployee partTimeEmployee = new PartTimeEmployee();
+           
+            /* PartTimeEmployee partTimeEmployee = new PartTimeEmployee();
             partTimeEmployee.WageCalculation();
+            */
+
+           SwitchCase sw = new SwitchCase();
+            sw.WageCalculation();
             Console.ReadKey();
         }
     }
