@@ -15,8 +15,11 @@ namespace PracticeEmployeeWage
             attendance.Check();
            */
 
-            DailyWage dailyWage = new DailyWage();
+           /* DailyWage dailyWage = new DailyWage();
             dailyWage.Calculate();
+           */
+           PartTimeEmployee partTimeEmployee = new PartTimeEmployee();
+            partTimeEmployee.WageCalculation();
             Console.ReadKey();
         }
     }
