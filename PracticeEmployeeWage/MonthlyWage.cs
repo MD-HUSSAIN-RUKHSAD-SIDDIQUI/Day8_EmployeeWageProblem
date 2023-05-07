@@ -40,7 +40,7 @@ namespace PracticeEmployeeWage
                             empHour = 8;
                             break;
                         case 2:
-                            Console.WriteLine("Employee is working as PartTime Employee means 4 hor work");
+                            Console.WriteLine("Employee is working as PartTime Employee means 4 hour work");
                             empHour = 4;
                             break;
                         default:

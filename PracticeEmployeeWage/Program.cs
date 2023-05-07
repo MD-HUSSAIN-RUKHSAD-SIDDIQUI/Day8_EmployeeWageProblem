@@ -27,8 +27,12 @@ namespace PracticeEmployeeWage
             sw.WageCalculation();
           */
 
-            MonthlyWage monthlyWage = new MonthlyWage();
+            /*
+             * MonthlyWage monthlyWage = new MonthlyWage();
             monthlyWage.Calculation();
+            */
+            WageTillCondition wageTillCondition = new WageTillCondition();
+            wageTillCondition.Calculation();
             Console.ReadKey();
         }
     }
