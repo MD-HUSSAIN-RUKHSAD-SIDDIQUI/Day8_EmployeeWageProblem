@@ -1,0 +1,8 @@
+C:\Users\hp\Desktop\Day8\PracticeEmployeeWage\bin\Debug\PracticeEmployeeWage.exe.config
+C:\Users\hp\Desktop\Day8\PracticeEmployeeWage\bin\Debug\PracticeEmployeeWage.exe
+C:\Users\hp\Desktop\Day8\PracticeEmployeeWage\bin\Debug\PracticeEmployeeWage.pdb
+C:\Users\hp\Desktop\Day8\PracticeEmployeeWage\obj\Debug\PracticeEmployeeWage.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Day8\PracticeEmployeeWage\obj\Debug\PracticeEmployeeWage.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Desktop\Day8\PracticeEmployeeWage\obj\Debug\PracticeEmployeeWage.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Day8\PracticeEmployeeWage\obj\Debug\PracticeEmployeeWage.exe
+C:\Users\hp\Desktop\Day8\PracticeEmployeeWage\obj\Debug\PracticeEmployeeWage.pdb
