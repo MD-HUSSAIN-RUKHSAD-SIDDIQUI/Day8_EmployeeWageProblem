@@ -11,8 +11,12 @@ namespace PracticeEmployeeWage
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome to Employee Wage Computation Program:");
-            EmployeeAttendance attendance = new EmployeeAttendance();
+           /* EmployeeAttendance attendance = new EmployeeAttendance();
             attendance.Check();
+           */
+
+            DailyWage dailyWage = new DailyWage();
+            dailyWage.Calculate();
             Console.ReadKey();
         }
     }
