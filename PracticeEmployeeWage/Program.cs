@@ -29,10 +29,24 @@ namespace PracticeEmployeeWage
 
             /*
              * MonthlyWage monthlyWage = new MonthlyWage();
-            monthlyWage.Calculation();
+               monthlyWage.Calculation();
             */
-            WageTillCondition wageTillCondition = new WageTillCondition();
-            wageTillCondition.Calculation();
+           
+            /*
+             * WageTillCondition wageTillCondition = new WageTillCondition();
+               wageTillCondition.Calculation();
+            */
+
+
+            WageForMultipleCompany wageForMultipleCompany1 = new WageForMultipleCompany();
+            wageForMultipleCompany1.Calculation("TCS", 200, 22, 176);
+
+            WageForMultipleCompany wageForMultipleCompany2 = new WageForMultipleCompany();
+            wageForMultipleCompany2.Calculation("Amazon", 600, 20, 160);
+
+            WageForMultipleCompany wageForMultipleCompany3 = new WageForMultipleCompany();
+            wageForMultipleCompany3.Calculation("MicroSoft", 500, 20, 150);
+
             Console.ReadKey();
         }
     }
